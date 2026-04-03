@@ -1,3 +1,5 @@
+- [UI Guidelines](../docs/ui-guidelines.md) - Core UI and accessibility guidelines for the TODO app
++- [Testing Guidelines](../docs/testing-guidelines.md) - Unit, integration, and E2E testing guidelines for the TODO app
 # GitHub Copilot Instructions
 
 > **Note**: This file is located at `.github/copilot-instructions.md` and is used by GitHub Copilot to understand project context.
